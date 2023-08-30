@@ -1,0 +1,6 @@
+# Lintian marks this file as source-is-missing, but it is the actual source
+doxygen-awesome-css source: source-is-missing [doxygen-awesome-darkmode-toggle.js]
+# Lintian marks this file as source-is-missing, but it is the actual source
+doxygen-awesome-css source: source-is-missing [doxygen-custom/header.html]
+# False positive
+doxygen-awesome-css source: source-contains-prebuilt-javascript-object [doxygen-awesome-darkmode-toggle.js]
